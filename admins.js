@@ -11,7 +11,7 @@ const email = "pattigar@iitg.ac.in";
 const password = "qwert123";
 const role = "restricted";
 
-const dbURI = 'mongodb+srv://vineeth:qwert123@test.h1ng1.mongodb.net/node-auth';
+const dbURI = '*******************';
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex:true })
   .then(async (result) => {
     console.log('connection made!!');
