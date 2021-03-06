@@ -2,16 +2,16 @@ const adminUser = require('./models/adminUser');
 const mongoose = require('mongoose');
 
 var adminuser = new adminUser({
-    email: 'vineethvinnu357@gmail.com',
-    password: 'qwert123',
+    email: '*************',
+    password: '**************',
     role: 'admin'
 });
 
-const email = "pattigar@iitg.ac.in";
-const password = "qwert123";
+const email = "************";
+const password = "************";
 const role = "restricted";
 
-const dbURI = 'mongodb+srv://vineeth:qwert123@test.h1ng1.mongodb.net/node-auth';
+const dbURI = '*******************';
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex:true })
   .then(async (result) => {
     console.log('connection made!!');
