@@ -8,7 +8,7 @@
 
 ![alt text](./images/programming.png)
 
-![alt text](./images/Screenshot (297).png)
+![alt text](./images/questions.png)
 
 ![alt text](./images/addquestion.png)
 
