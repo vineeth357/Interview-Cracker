@@ -1,4 +1,4 @@
-# Interview-Cracker
+# Interview-Prep-Tracker
 
 This is an web application which helps for the preparation of interviews by providing previous years experiences of others and also by providing good programming questions to practice. 
 
