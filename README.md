@@ -1,6 +1,6 @@
 # Interview-Prep-Tracker
 
-This is an web application which helps for the preparation of interviews by providing previous years experiences of others and also by providing good programming questions to practice. 
+This is a web application that helps for the preparation of interviews by providing previous year's experiences of others and also by providing good programming questions to practice.
 
 #### Team Members 
 * Vineeth Kumar
