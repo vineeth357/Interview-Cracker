@@ -7,7 +7,7 @@ This is a web application that helps for the preparation of interviews by provid
 
 ### Key Technologies
 * Node.js
-* Ejs templates
+* EJS templates
 * JavaScript 
 * MongoDB
 
