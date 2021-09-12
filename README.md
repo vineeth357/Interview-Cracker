@@ -7,12 +7,11 @@ This is a web application that helps for the preparation of interviews by provid
 * Surya Kiran
 * Mukkanti Saketh
 
-### Used Tech
+### Key Technologies
 * Node.js
+* Ejs templates
+* JavaScript 
 * MongoDB
-* HTML 
-* CSS
-* JavaScript
 
 ### Home Page
 
