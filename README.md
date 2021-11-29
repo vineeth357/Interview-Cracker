@@ -35,12 +35,24 @@ Thi is the page showing all question of arrays topic.
 
 ![alt text](./images/questions.png)
 
+Users can contribute good quetions and that has to be approved by admin to showcase in the website
+
 ![alt text](./images/addquestion.png)
+
+### Programming page
+
+Showing list of companies for which interview experinces are present.
 
 ![alt text](./images/companies.png)
 
+Showing list of interview experinces of Google and we have to select from that list to read any experience
+
 ![alt text](./images/exps.png)
 
+This is the full experience of a candidate of company.
+
 ![alt text](./images/fullexp.png)
+
+Users can contribute by providing their experiences and that has to be approved by admin to showcase in the website.
 
 ![alt text](./images/addexp.png)
