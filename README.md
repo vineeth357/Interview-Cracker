@@ -10,8 +10,13 @@ This is a web application that helps for the preparation of interviews by provid
 * EJS templates
 * JavaScript 
 * MongoDB
+### Features of the Application
+* [Home](https://github.com/vineeth357/Interview-Prep-Tracker#home)
+* [Programming](https://github.com/vineeth357/Interview-Prep-Tracker#programming)
+* [Experiences](https://github.com/vineeth357/Interview-Prep-Tracker#experiences)
 
-### Home Page
+
+### Home
 
 This is an home page before user logged in. User has to login first to use the features of the website
 
@@ -25,7 +30,7 @@ This is the home page after user logins. Now user can use programming and interv
 
 ![alt text](./images/homelogin.png)
 
-### Programming page
+### Programming
 
 User can select any topics to pratice and he can also contrebute new question by "Add Question" option at the end of the page.
 
@@ -39,7 +44,7 @@ Users can contribute good quetions and that has to be approved by admin to showc
 
 ![alt text](./images/addquestion.png)
 
-### Experiences page
+### Experiences
 
 Showing list of companies for which interview experinces are present.
 
