@@ -39,7 +39,7 @@ Users can contribute good quetions and that has to be approved by admin to showc
 
 ![alt text](./images/addquestion.png)
 
-### Programming page
+### Experiences page
 
 Showing list of companies for which interview experinces are present.
 
