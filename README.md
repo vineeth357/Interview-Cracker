@@ -22,6 +22,8 @@ This is an home page before user logged in. User has to login first to use the f
 
 ![alt text](./images/home.png)
 
+### SignUp
+
 This is the signup page. User can create an account at first once and afterwards user can login directly.
 
 ![alt text](./images/signup.png)
