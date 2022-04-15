@@ -38,7 +38,7 @@ User can select any topics to pratice and he can also contrebute new question by
 
 ![alt text](./images/programming.png)
 
-Thi is the page showing all question of arrays topic. 
+This is the page showing all question of arrays topic. 
 
 ![alt text](./images/questions.png)
 
