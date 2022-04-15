@@ -3,7 +3,7 @@
 This is a web application that helps for the preparation of interviews by providing previous year's experiences of others and also by providing good programming questions to practice.
 
 #### Team Members 
-* Vineeth Kumar, Surya Kiran, Mukkanti Saketh
+* Vineeth Kumar, Ajay Kumar, Surya Kiran, Mukkanti Saketh
 
 ### Key Technologies
 * Node.js
